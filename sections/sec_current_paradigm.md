@@ -1,4 +1,4 @@
-## The Current Paradigm: The Horizontal Dimension
+## The Current Paradigm: Full Focus on the Horizontal Dimension
 
 For all their diversity, contemporary approaches to AI alignment share a fundamental assumption: **the values that should guide artificial intelligence must ultimately be derived from humanity itself.** Researchers look to human preferences, moral judgments, cultural norms, ethical theories, and accumulated human experience to determine how intelligent systems ought to behave. We may call this the _horizontal dimension_ of alignment—a search for values conducted entirely within the human domain.
 
