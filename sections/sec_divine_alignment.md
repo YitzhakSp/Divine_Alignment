@@ -1,6 +1,6 @@
-##  Divine Alignment
+## Divine Alignment
 
-Before attempting to align artificial intelligence, we should confront a more fundamental question: **how does human intelligence itself become aligned ?** Human beings possess remarkable intellectual abilities, yet intelligence alone does not guarantee righteous behavior. History offers countless examples of extraordinary intelligence employed in the service of destructive purposes. The challenge of human alignment is therefore to bring our intentions, judgments, and actions into harmony with what is genuinely right.
+Before attempting to align artificial intelligence, we should confront a more fundamental question: **how does human intelligence itself become aligned?** Human beings possess remarkable intellectual abilities, yet intelligence alone does not guarantee righteous behavior. History offers countless examples of extraordinary intelligence employed in the service of destructive purposes. The challenge of human alignment is therefore to bring our intentions, judgments, and actions into harmony with what is genuinely right.
 
 At its deepest level, **human alignment is about establishing and strengthening our connection to the Source.** Human reason, intuition, and moral experience can help us recognize and understand these values, but they cannot independently establish their ultimate authority. Genuine alignment requires more than intellectual sophistication or agreement upon ethical principles. It requires guidance originating from the Source itself.
 

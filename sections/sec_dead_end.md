@@ -1,4 +1,4 @@
-# Has AI Alignment reached a Dead End
+# Has AI Alignment Reached a Dead End?
 
 Despite years of research and enormous intellectual investment, the fundamental problem of AI alignment remains unresolved. Researchers have developed increasingly sophisticated techniques for making AI systems safer and more responsive to human intentions. Yet, currently, **no demonstrated method exists for reliably aligning superintelligent AI with human values**. While progress in AI capabilities continues at a remarkable pace, our ability to guarantee that such intelligence will remain under human control lags dangerously behind.
 

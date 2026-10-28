@@ -1,4 +1,4 @@
-# Appendix: AI Misalignment Illustrated bythe movie _2001: A Space Odyssey_ (1968)
+# Appendix: AI Misalignment Illustrated by the Movie _2001: A Space Odyssey_ (1968)
 
 Stanley Kubrick's science-fiction masterpiece _2001: A Space Odyssey_ (1968) offers a striking illustration of the dangers of AI misalignment. At the center of the story is HAL 9000, a highly advanced artificial intelligence responsible for operating a spacecraft on a mission to Jupiter.
 

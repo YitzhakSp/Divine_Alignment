@@ -1,11 +1,11 @@
 
-##  The AI Alignment Problem Is Becoming Urgent
+## The AI Alignment Problem Is Becoming Urgent
 
 Artificial intelligence is advancing at an extraordinary pace. Systems that only a few years ago struggled with simple tasks can now write sophisticated software, solve scientific problems, and perform work once reserved for highly trained professionals. Increasingly, AI systems are becoming _autonomous agents_, capable of planning, using tools, and pursuing complex goals with limited human supervision. Humanity may be approaching a historic threshold: the creation of intelligence that surpasses our own.
 
 Yet this progress brings a fundamental challenge: **how can we ensure that increasingly powerful artificial intelligence acts in accordance with human intentions, goals, and values?**
 
-This is the central problem of _AI alignment_. Building an intelligent system is one achievement; ensuring that it reliably pursues the right objectives is another. An AI system may become extraordinarily capable without adequately understanding the values and boundaries that should govern its actions. This can lead to _misaligned_ behaviour, that in some cases can lead to catastrophic outcomes (see "appendix: misaligned behaviour").
+This is the central problem of _AI alignment_. Building an intelligent system is one achievement; ensuring that it reliably pursues the right objectives is another. An AI system may become extraordinarily capable without adequately understanding the values and boundaries that should govern its actions. This can lead to _misaligned_ behaviour, which in some cases can lead to catastrophic outcomes (see "appendix: misaligned behaviour").
 
 Until recently, the most alarming scenarios involving AI misalignment were largely theoretical. However, emerging incidents suggest that failures of control are already becoming a practical concern.
 

@@ -57,7 +57,7 @@
     
 3. **Persistent alignment failures.** This fundamental difficulty can give rise to various types of alignment failures, such as **objective misspecification, specification gaming, and reward hacking**. Despite the development of increasingly sophisticated alignment techniques, these and other fundamental difficulties remain unresolved.
     
-4. - **Warnings from leading AI safety researchers.** Many prominent AI safety experts, including **Eliezer Yudkowsky and Roman Yampolskiy**, warn that sufficiently advanced AI poses severe existential risks and express profound skepticism about the possibility of achieving reliable alignment using existing approaches. Their concerns are so deep that both have advocated **halting the development of increasingly powerful general-purpose AI systems** (as oppsed to narrow AI systems (AI that is designed for specific task)), arguing that, in the absence of a reliable alignment solution, such a halt is necessary to prevent potentially catastrophic outcomes.
+4. - **Warnings from leading AI safety researchers.** Many prominent AI safety experts, including **Eliezer Yudkowsky and Roman Yampolskiy**, warn that sufficiently advanced AI poses severe existential risks and express profound skepticism about the possibility of achieving reliable alignment using existing approaches. Their concerns are so deep that both have advocated **halting the development of increasingly powerful general-purpose AI systems** (as opposed to narrow AI systems (AI that is designed for a specific task)), arguing that, in the absence of a reliable alignment solution, such a halt is necessary to prevent potentially catastrophic outcomes.
 
 
 ## (sec_current_paradigm) The Current Paradigm: The Horizontal Dimension
