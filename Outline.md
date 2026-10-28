@@ -3,7 +3,7 @@
 - make sure to consider the comments that appear in sections
 - make sure that references to refs and appendices are correct
 - links to papa's articles
-- check all references to refs and appendices
+- check all references to refs other sections and appendices
 
 ## required appendices
 
