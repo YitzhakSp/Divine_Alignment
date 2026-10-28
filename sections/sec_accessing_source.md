@@ -1,4 +1,4 @@
-## How Can Humanity Access the Source?
+## Can Humanity Access the Source?
 
 If the ultimate foundation of values lies beyond humanity, a new challenge immediately emerges: **how can human beings discover what those values are?** Recognizing the reality of a higher Source is one thing; understanding its intentions and translating them into principles that can guide intelligent behavior is quite another.
 

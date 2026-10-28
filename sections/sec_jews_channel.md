@@ -11,6 +11,6 @@ Yet **the biblical vision extends far beyond the Jewish people themselves**. Isr
 
 **“For out of Zion shall go forth the Torah, and the word of the Lord from Jerusalem.”** — Isaiah 2:3
 
-The prophecy describes a future in which nations seek divine instruction, learn God's ways, and transform their conduct accordingly. What was initially entrusted to one people is ultimately destined to become a source of moral guidance for all humanity.
+The prophecy describes a future in which nations seek divine instruction, learn God's ways, and transform their conduct accordingly. What was initially entrusted to one people is ultimately destined to become a source of moral guidance for all humanity (further sources are collected in "apd_prophetic_vision").
 
 **For AI alignment, this opens a remarkable possibility:** the moral foundation we seek may already have been transmitted to humanity, preserved within a tradition whose ultimate purpose extends far beyond the people entrusted with its care.

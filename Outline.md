@@ -10,16 +10,20 @@
 - appendix that clarifies complete and consistent and agreed upon corpus of values
 - appendix that says that yudkowsky and yampolski suggest halting development of general ai systems (should be referenced in last prg in sec_dead_end)
 - (opt) appendix on isaac asimov's insights. reference might appear in (sec_dead_end). this appendix can also mention movies like "space odyssey" and "I, robot" to illustrate the problem of incomplete and inconsistent value systems
-# (sec_pshift_example) When Physics Reached a Wall
+- apd_pshift_example: When Physics Reached a Wall (Newton to Einstein). Referenced from sec_pshift_concept. Content:
+    - Newtonian mechanics dominated physics for centuries and appeared extraordinarily successful.
+    - By the late nineteenth century, tensions emerged around light, electromagnetism, and the idea of absolute space and time.
+    - Physicists tried to preserve the existing framework through ideas such as the ether and increasingly sophisticated adjustments.
+    - Einstein made a more radical move: instead of repairing the old picture, he changed its underlying assumptions about space and time.
 
-- Newtonian mechanics dominated physics for centuries and appeared extraordinarily successful.
-    
-- By the late nineteenth century, tensions emerged around light, electromagnetism, and the idea of absolute space and time.
-    
-- Physicists tried to preserve the existing framework through ideas such as the ether and increasingly sophisticated adjustments.
-    
-- Einstein made a more radical move: instead of repairing the old picture, he changed its underlying assumptions about space and time.
-    
+- apd_prophetic_vision: The Prophetic Vision of Humanity's Return to God (appendix for sec_humanity_tshuva; also referenced from sec_jews_channel)
+    - **Intro.** Five themes and the scope of the appendix.
+    - A1. Universal knowledge of God: Isaiah 11:9, Habakkuk 2:14, Jeremiah 31:33-34.
+    - A2. The nations turn to God: Isaiah 2:2-3 (= Micah 4:1-2, note Micah 4:5), Zephaniah 3:9, Zechariah 8:20-23, Isaiah 56:6-7, Isaiah 19:24-25. Plus Maimonides on the Noahide commandments (Hilchot Melachim 8:10-11).
+    - A3. God as King of all the earth: Zechariah 14:9, Isaiah 40:5, Psalms 22:28-29. Plus the Aleinu prayer.
+    - A4. A transformed world: Isaiah 2:4, Isaiah 11:6, Micah 4:4.
+    - A5. Israel as a light to the nations: Isaiah 42:6, 49:6, 60:1-3.
+    - **To do:** check the Aleinu translation and history, and the reading of Hilchot Melachim 8:11.
 
 # (sec_pshift_concept) When Progress Requires a New Paradigm
 

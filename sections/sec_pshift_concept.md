@@ -1,6 +1,6 @@
 ## 2. When Progress Requires a New Paradigm
 
-The revolution brought about by Einstein illustrates a recurring phenomenon in the history of human knowledge: **sometimes the greatest obstacle to solving a problem is the very framework within which we are trying to solve it.**
+At the turn of the twentieth century, physics met a problem that Newtonian mechanics could not solve: it clashed with the new theory of light. Physicists first tried to save the familiar framework with ideas such as the luminiferous ether, but Einstein took a more radical step and questioned the assumptions about space and time themselves (see "apd_pshift_example"). His revolution illustrates a recurring phenomenon in the history of human knowledge: **sometimes the greatest obstacle to solving a problem is the very framework within which we are trying to solve it.**
 
 Every successful scientific paradigm rests upon a set of fundamental assumptions. These assumptions define how we understand reality, which questions we consider meaningful, and what kinds of answers we are willing to accept. As long as the paradigm produces successful results, its foundations are rarely questioned. Indeed, the more successful a paradigm becomes, the more difficult it is to imagine that its underlying assumptions might be mistaken.
 

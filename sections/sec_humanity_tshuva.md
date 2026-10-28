@@ -7,7 +7,7 @@ The preceding section suggested that the challenge of AI alignment might become 
 
 > _“For the earth shall be full of the knowledge of the Lord, as the waters cover the sea.”_ (Isaiah 11:9; cf. Habakkuk 2:14)
 
-This vision appears repeatedly throughout the prophetic writings. Zechariah proclaims: 
+This vision appears repeatedly throughout the prophetic writings (further sources are collected in "apd_prophetic_vision"). Zechariah proclaims: 
 
 >_“And the Lord shall be King over all the earth; on that day the Lord shall be One and His name One”_ (Zechariah 14:9). 
 
