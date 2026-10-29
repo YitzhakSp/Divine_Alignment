@@ -37,28 +37,19 @@ As AI capabilities continue to advance, failures of alignment could escalate fro
 
 **Given the stakes, how close are we to a reliable solution?**
 
-## References
-
-- (ref_1) OpenAI: Hugging Face incident and the road ahead. https://openai.com/index/hugging-face-incident-and-the-road-ahead/
-
 # Has AI Alignment Reached a Dead End?
 
 Despite years of research and enormous intellectual investment, the fundamental problem of AI alignment remains unresolved. Researchers have developed increasingly sophisticated techniques for making AI systems safer and more responsive to human intentions. Yet currently, **no demonstrated method exists for reliably aligning superintelligent AI with human values**. While progress in AI capabilities continues at a remarkable pace, our ability to guarantee that such intelligence will remain under human control lags dangerously behind.
 
 At the heart of this challenge lies a fundamental difficulty: **humanity lacks a sufficiently comprehensive and coherent moral framework for guiding superintelligent AI**. The problem goes far beyond disagreements about which values AI should follow. Even seemingly clear and universally accepted moral principles can lead to conflicting interpretations, unexpected consequences, and difficult dilemmas when applied to complex situations (see “apd_misalignment_example_space_odyssey” and “apd_misalignment_example_irobot”). Isaac Asimov recognized the difficulty of governing intelligent machines with simple rules as early as the 1940s. Through his famous Three Laws of Robotics, he demonstrated how apparently straightforward rules intended to protect humanity could produce deeply problematic behavior. The challenge, therefore, is not merely to identify the right values, but to establish a moral framework capable of interpreting, reconciling, and applying them across the extraordinary complexity of real-world circumstances.
 
-This fundamental difficulty has profound technical consequences. When human intentions cannot be adequately specified, AI systems may pursue objectives that satisfy their formal instructions while violating the purposes behind them. Researchers have identified such failures under names including _objective misspecification_, _specification gaming_, and _reward hacking_. These are not merely hypothetical concerns; they have been repeatedly observed in AI systems. More sophisticated algorithms alone cannot eliminate the danger of pursuing an incorrectly specified objective (ref_1).
+This fundamental difficulty has profound technical consequences. When human intentions cannot be adequately specified, AI systems may pursue objectives that satisfy their formal instructions while violating the purposes behind them. Researchers have identified such failures under names including _objective misspecification_, _specification gaming_, and _reward hacking_. These are not merely hypothetical concerns; they have been repeatedly observed in AI systems. More sophisticated algorithms alone cannot eliminate the danger of pursuing an incorrectly specified objective (ref_2).
 
-Some of the most prominent voices in AI safety have reached deeply troubling conclusions. **Eliezer Yudkowsky**, a pioneer of AI alignment research, has warned that developing superintelligence without solving alignment could lead to human extinction. **Roman Yampolskiy**, a leading researcher in AI safety, has gone further in questioning whether reliable control of superintelligent systems is achievable at all. Their concerns are so profound that both have advocated halting the development of increasingly powerful general-purpose AI systems until adequate safety guarantees can be established (ref_2; see “apd_Yudkowsky” and “apd_Yampolskiy”, and, for warnings from other prominent figures, “apd_warnings_of_prominent_AI_figures”).
+Some of the most prominent voices in AI safety have reached deeply troubling conclusions. **Eliezer Yudkowsky**, a pioneer of AI alignment research, has warned that developing superintelligence without solving alignment could lead to human extinction. **Roman Yampolskiy**, a leading researcher in AI safety, has gone further in questioning whether reliable control of superintelligent systems is achievable at all. Their concerns are so profound that both have advocated halting the development of increasingly powerful general-purpose AI systems until adequate safety guarantees can be established (ref_3; see “apd_Yudkowsky” and “apd_Yampolskiy”, and, for warnings from other prominent figures, “apd_warnings_of_prominent_AI_figures”).
 
 These warnings do not represent a universal consensus among AI researchers. Nevertheless, they reveal the extraordinary gravity of the situation: **humanity is moving toward creating an intelligence more powerful than itself, without knowing how to ensure that this intelligence will remain aligned with its values.**
 
 The question is no longer simply how to improve existing alignment techniques. It is whether the fundamental assumptions guiding our search for a solution are sufficient.
-
-## References
-
-- (ref_1) Google DeepMind: Specification gaming, the flip side of AI ingenuity. https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/
-- (ref_2) TIME: Pausing AI Developments Isn't Enough. We Need to Shut It All Down (Eliezer Yudkowsky). https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/
 
 # The Current Paradigm: Full Focus on the Horizontal Dimension
 
@@ -92,6 +83,19 @@ Perhaps the key to aligning superintelligent AI lies in considering the **Source
 
 If this possibility is taken seriously, the alignment problem begins to look fundamentally different. What appeared to be an exclusively technical challenge may also be a question about the ultimate foundations of morality—and about humanity's relationship with the Source of its own existence.
 
+# Divine Alignment
+
+Before attempting to align artificial intelligence, we should confront a more fundamental question: how does human intelligence itself become aligned? Human beings possess remarkable intellectual abilities, yet intelligence alone does not guarantee righteous behavior. History offers countless examples of extraordinary intelligence employed in the service of destructive purposes. The challenge of human alignment is therefore to bring our intentions, judgments, and actions into harmony with what is genuinely right.
+
+At its deepest level, **human alignment is about establishing and strengthening our connection to the Source.** Human reason, intuition, and moral experience can help us recognize and understand what is right, but they cannot independently establish their ultimate authority. Genuine alignment requires more than intellectual sophistication or agreement upon ethical principles. It requires guidance originating from the Source itself.
+
+Artificial intelligence faces a fundamentally similar challenge. An AI system may possess extraordinary intelligence and capabilities, yet these qualities alone cannot ensure that it pursues the right objectives. Just as human intelligence requires guidance beyond itself, artificial intelligence must also be guided by values whose authority does not depend merely on its own reasoning or preferences.
+
+**Here lies the central principle of Divine Alignment: rather than attempting to align artificial intelligence exclusively with human preferences, we should seek to align it with the Source of human alignment.**
+
+From this perspective, human alignment and AI alignment are no longer two entirely separate problems. Both become expressions of a deeper challenge: bringing intelligence—whether natural or artificial—into harmony with the Source.
+
+This brings us to the next crucial question: **how can intelligence, whether human or artificial, gain access to guidance originating from the Source?**
 # Can Humanity Access the Source?
 
 If the ultimate foundation of values lies beyond humanity, a new challenge immediately emerges: **how can human beings discover what those values are?** Recognizing the reality of a higher Source is one thing; understanding its intentions and translating them into principles that can guide intelligent behavior is quite another.
@@ -110,7 +114,6 @@ This suggests a radically different direction for AI alignment. Instead of attem
 
 The search for the ultimate foundation of AI alignment thus leads to a new challenge: **identifying the channels through which the Source has communicated with humanity, the traditions that have preserved this communication, and the possibility of using their teachings to guide the intelligence we are creating.**
 
-   
 # The Jewish People as a Channel of Divine Instruction
 
 If the Source of human values has communicated moral guidance to humanity, where should we look for it? The Hebrew Bible points toward a remarkable possibility: **the Jewish people were entrusted with a unique mission—to receive, preserve, and transmit divine instruction.**
@@ -186,9 +189,9 @@ Isaiah further describes a time when the divine presence will become manifest to
 
 > _“And the glory of the Lord shall be revealed, and all flesh shall see it together.”_ (Isaiah 40:5)
 
-These prophecies envision a world fundamentally different from our own—one in which the recognition of God is no longer confined to particular nations, traditions, or individuals, but becomes a universal dimension of human consciousness (ref_1).
+These prophecies envision a world fundamentally different from our own—one in which the recognition of God is no longer confined to particular nations, traditions, or individuals, but becomes a universal dimension of human consciousness (ref_4).
 
-The prophets describe far more than humanity's intellectual acknowledgment of God's existence: they envision **a profound transformation of human values, priorities, and conduct**. Zephaniah (3:9) foresees the nations united in serving God, while Isaiah (2:4) describes a world in which nations abandon warfare and learn peace. Humanity does not merely discover a higher truth; it reorganizes civilization around it. This vision has never been a mere ancient prediction. It has remained alive in Jewish consciousness through centuries of exile and persecution, and every day the concluding prayer _Aleinu_ expresses the hope that all humanity will recognize God's sovereignty, culminating in Zechariah's declaration that God will be King over the entire earth (ref_2).
+The prophets describe far more than humanity's intellectual acknowledgment of God's existence: they envision **a profound transformation of human values, priorities, and conduct**. Zephaniah (3:9) foresees the nations united in serving God, while Isaiah (2:4) describes a world in which nations abandon warfare and learn peace. Humanity does not merely discover a higher truth; it reorganizes civilization around it. This vision has never been a mere ancient prediction. It has remained alive in Jewish consciousness through centuries of exile and persecution, and every day the concluding prayer _Aleinu_ expresses the hope that all humanity will recognize God's sovereignty, culminating in Zechariah's declaration that God will be King over the entire earth (ref_5).
 
 Nor do the prophets present this transformation as a mere ideal or a possibility dependent on favorable circumstances; they proclaim it as **humanity's destined future**. Despite the conflicts and moral failures of human history, the return to the Source is portrayed as the culmination of humanity's historical journey.
 
@@ -196,5 +199,8 @@ Viewed against this prophetic horizon, the emergence of superintelligent AI acqu
 
 ## References
 
-- (ref_1) Chabad.org: The Messianic Era. https://www.chabad.org/library/article_cdo/aid/100899/jewish/The-Messianic-Era.htm
-- (ref_2) Chabad.org: Aleinu, Text with Translation. https://www.chabad.org/library/article_cdo/aid/7424392/jewish/Aleinu-Text-with-Translation.htm
+- (ref_1) OpenAI: Hugging Face incident and the road ahead. https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+- (ref_2) Google DeepMind: Specification gaming, the flip side of AI ingenuity. https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/
+- (ref_3) TIME: Pausing AI Developments Isn't Enough. We Need to Shut It All Down (Eliezer Yudkowsky). https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/
+- (ref_4) Chabad.org: The Messianic Era. https://www.chabad.org/library/article_cdo/aid/100899/jewish/The-Messianic-Era.htm
+- (ref_5) Chabad.org: Aleinu, Text with Translation. https://www.chabad.org/library/article_cdo/aid/7424392/jewish/Aleinu-Text-with-Translation.htm
