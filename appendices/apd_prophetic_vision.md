@@ -34,19 +34,19 @@ The prophets also say that **all peoples, not only Israel, will turn toward God.
 
 > _"And it shall come to pass in the end of days, that the mountain of the Lord's house shall be established as the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it. And many peoples shall go and say: 'Come, let us go up to the mountain of the Lord, to the house of the God of Jacob; and He will teach us of His ways, and we will walk in His paths.' For out of Zion shall go forth the Torah, and the word of the Lord from Jerusalem."_ (Isaiah 2:2-3; parallel in Micah 4:1-2)
 
-Notice who takes the first step: the nations. They go up to be taught. The text takes for granted that there is something to learn, "His ways" and "the Torah", and this is the picture the essay's section on the Jewish people as a channel depends on. The parallel passage in Micah adds a sober note: _"For all the peoples will walk each one in the name of its god, but we will walk in the name of the Lord our God for ever and ever"_ (Micah 4:5). Readers understand this in different ways. Some see a stage on the way, others a lasting difference between Israel and the nations. It is worth keeping in mind that **the sources do not all say exactly the same thing.**
+The nations take the first step: they go up to be taught. The text takes for granted that there is something to learn, "His ways" and "the Torah", and this is the picture the essay's section on the Jewish people as a channel depends on. The parallel passage in Micah adds a sober note: _"For all the peoples will walk each one in the name of its god, but we will walk in the name of the Lord our God for ever and ever"_ (Micah 4:5). Readers understand this in different ways. Some see a stage on the way, others a lasting difference between Israel and the nations. **The sources do not all say exactly the same thing.**
 
 > _"For then will I turn to the peoples a pure language, that they may all call upon the name of the Lord, to serve Him with one consent."_ (Zephaniah 3:9)
 
 > _"Thus says the Lord of hosts: It shall yet come to pass, that there shall come peoples, and the inhabitants of many cities; and the inhabitants of one shall go to another, saying: 'Let us go speedily to entreat the favour of the Lord, and to seek the Lord of hosts; I will go also.' Yea, many peoples and mighty nations shall come to seek the Lord of hosts in Jerusalem, and to entreat the favour of the Lord."_ (Zechariah 8:20-22)
 
-Zechariah adds a human touch: people urge one another to go. In the next verse (8:23), ten men from the nations take hold of a Jew and say: _"We will go with you, for we have heard that God is with you."_
+In Zechariah, people urge one another to go. In the next verse (8:23), ten men from the nations take hold of a Jew and say: _"We will go with you, for we have heard that God is with you."_
 
 > _"Also the aliens that join themselves to the Lord, to minister unto Him, and to love the name of the Lord, to be His servants... even them will I bring to My holy mountain, and make them joyful in My house of prayer; their burnt-offerings and their sacrifices shall be acceptable upon My altar; for My house shall be called a house of prayer for all peoples."_ (Isaiah 56:6-7)
 
 > _"In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the earth; for that the Lord of hosts has blessed him, saying: 'Blessed be Egypt My people, and Assyria the work of My hands, and Israel My inheritance.'"_ (Isaiah 19:24-25)
 
-Isaiah 19 is striking. Egypt and Assyria, the great powers of the time, are called "My people" and "the work of My hands". The nations are not just included. They are addressed in language that was once used only of Israel.
+In Isaiah 19, Egypt and Assyria, the great powers of the time, are called "My people" and "the work of My hands". The nations are not merely included. They are addressed in language that was once used only of Israel.
 
 These verses are about a future in which the nations turn to God. But the tradition also has something to say about the present: the seven commandments given to the descendants of Noah, which apply to all humanity. They forbid idolatry, blasphemy, murder, sexual immorality, theft, and eating a limb torn from a living animal, and they require courts of justice. Maimonides rules that a non-Jew who accepts and keeps them is among the "pious of the nations" and has a share in the World to Come (Mishneh Torah, Hilchot Melachim 8:10-11; see ref_2). He adds one condition: **the person must keep them because God commanded them in the Torah, and not because their own reasoning led them there.** Someone who keeps the same laws out of reasoned conviction alone is not counted among the pious of the nations or their wise. (The exact wording and interpretation of this ruling are discussed in later literature.) Two things follow. The tradition has a body of moral law addressed to all humanity, not only to Jews. And it says, in legal form, what the essay argues: the authority of moral values rests on their Source, and not on human reasoning alone.
 
@@ -84,7 +84,7 @@ Finally, the prophets give Israel a role: **to be a light to the nations.**
 
 > _"Arise, shine, for your light is come, and the glory of the Lord is risen upon you. For, behold, darkness shall cover the earth, and gross darkness the peoples; but upon you the Lord will arise, and His glory shall be seen upon you. And nations shall walk at your light, and kings at the brightness of your rising."_ (Isaiah 60:1-3)
 
-Look at the wording of Isaiah 49:6. Raising up the tribes of Jacob is called "too light a thing". The mission is explicitly bigger than the Jewish people themselves. In Isaiah 60 the nations are drawn by the light, not forced. **The role of the Jewish people as a channel of divine instruction (see "sec_jews_channel") is already stated in the prophets, together with its universal purpose.**
+In Isaiah 49:6, raising up the tribes of Jacob is called "too light a thing". The mission is explicitly bigger than the Jewish people themselves. In Isaiah 60 the nations are drawn by the light, not forced. **The role of the Jewish people as a channel of divine instruction (see "sec_jews_channel") is already stated in the prophets, together with its universal purpose.**
 
 ## References
 

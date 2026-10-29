@@ -1,8 +1,8 @@
-## 10. Bringing Divine Alignment into Practice
+# Bringing Divine Alignment into Practice
 
-Divine Alignment offers more than a new philosophical perspective. It opens a radically different direction for AI alignment research: **developing methods through which divine instruction can guide the behavior of increasingly powerful artificial intelligence.** The challenge is to transform this vision into practical mechanisms capable of shaping how AI systems reason, make decisions, and act.
+Divine Alignment offers more than a new philosophical perspective. It opens a new direction for AI alignment research: developing methods through which divine instruction can guide the behavior of increasingly powerful artificial intelligence. The challenge is to transform this vision into practical mechanisms capable of shaping how AI systems reason, make decisions, and act.
 
-Remarkably, this transformation may not require entirely new AI technologies. Many techniques already developed for AI alignment could be adapted to incorporate divine instruction. **The revolutionary change lies not necessarily in how we align AI, but in where we seek the values with which to align it.** Rather than abandoning the achievements of existing alignment research, Divine Alignment could build upon them while introducing a fundamentally different source of guidance.
+Remarkably, this transformation may not require entirely new AI technologies. Many techniques already developed for AI alignment could be adapted to incorporate divine instruction. **The revolutionary change lies less in how we align AI than in where we seek the values with which to align it.** Rather than abandoning the achievements of existing alignment research, Divine Alignment could build upon them while introducing a fundamentally different source of guidance.
 
 The Jewish tradition offers an extraordinary intellectual resource for this purpose. The Torah, Talmud, Midrash, halakhic literature, and generations of commentaries constitute a vast body of teachings addressing human conduct, justice, responsibility, and competing moral obligations. Far from being a simple collection of commandments, this tradition contains centuries of sophisticated reasoning about how fundamental principles should be understood and applied to complex situations.
 

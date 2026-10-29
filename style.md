@@ -1,1 +1,1 @@
-**Style:** Write like a thoughtful person explaining an idea to a friend. Keep the language at a medium level of difficulty. Let the key sentences stand out in bold.
+**Style:** Write like a thoughtful teacher explaining an idea to a respected colleague: clear, calm, and serious, in language of medium difficulty. State observations directly. Let the key sentences stand out in bold.
