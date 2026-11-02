@@ -1,7 +1,5 @@
 # Appendix: The Prophetic Vision of Humanity's Return to God
 
-%% Verse numbers checked against Sefaria (Hebrew numbering; Psalms is one verse higher than in most English Bibles). Translations are based on JPS 1917, lightly adapted, so their wording differs from Sefaria's Revised JPS (2023). TO DO: compare wording with the Hebrew if exact quotation matters. The Aleinu translation and its history (introduction) are from memory; the Maimonides references (section 2) were spot-checked on Sefaria, but check the exact reading of Hilchot Melachim 8:11 in a Hebrew edition. %%
-
 # Introduction
 
 Every day, at the end of each of the three daily services, Jews say a prayer called *Aleinu* (ref_1). Its first half thanks God for the special task given to Israel. Its second half looks at the whole world, and this is where the hope appears. Here are its main lines in translation:
