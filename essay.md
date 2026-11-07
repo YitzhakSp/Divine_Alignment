@@ -142,9 +142,13 @@ The Jewish tradition offers an extraordinary intellectual resource for this purp
 
 These teachings could enter the AI alignment process at several stages. **During training**, sacred texts and their interpretations could help shape an AI system's understanding of desirable behavior. They could also inform reward models and constitutional-style principles, providing a foundation for evaluating and guiding the system's responses. In this way, divine instruction could influence the development of AI behavior from its earliest stages.
 
+A more far-reaching approach looks to the process of upbringing. Instead of adding values to a system that is already capable, an AI could be raised through developmental stages modelled on Jewish education: beginning with attachment and trust, moving through empathy, stories with ethical consequences, and the study of Torah, and culminating in rigorous debate. The aim is for humility, honesty, and repair (_teshuvah_) to become internal dispositions that grow over time, rather than rules imposed from outside (ref_6).
+
 **During operation**, the connection to divine guidance could become even more explicit. Imagine an autonomous AI agent facing a consequential decision. Rather than relying exclusively on principles learned during training, it could consult relevant Jewish sources, examine competing considerations, and evaluate its intended actions in light of divine teachings. Such consultation could become an integral part of the agent's decision-making process, providing continuing guidance as it encounters unfamiliar situations.
 
 Crucially, **Divine Alignment cannot be reduced to teaching artificial intelligence a list of religious rules.** Jewish tradition contains a rich hierarchy of principles, precedents, interpretations, disagreements, and contextual distinctions. A system guided by this tradition would need to reason through these complexities, distinguishing general principles from specific applications and understanding how competing obligations are reconciled.
+
+One promising approach is to treat the tradition's own methods of reasoning as a design resource. Jewish learning is built around a stable canonical core surrounded by layers of commentary, new cases decided by analogy to precedent, disagreements conducted through structured debate, and minority opinions preserved rather than erased. These features could be translated into mechanisms for AI oversight: precedent-based decision-making, structured multi-agent debate, and versioned updates that preserve the reasons for every change (ref_7).
 
 Turning this vision into reality would undoubtedly present formidable challenges. It would require close collaboration between AI researchers and scholars of Jewish thought, alongside the development of methods for interpreting sacred teachings and applying them to unprecedented technological situations. Reliable implementation would also demand rigorous evaluation of whether these mechanisms genuinely improve alignment, rather than merely producing behavior that appears consistent with religious principles.
 
@@ -206,6 +210,8 @@ Viewed against this prophetic horizon, the emergence of superintelligent AI acqu
 - (ref_3) TIME: Pausing AI Developments Isn't Enough. We Need to Shut It All Down (Eliezer Yudkowsky). https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/
 - (ref_4) Chabad.org: The Messianic Era. https://www.chabad.org/library/article_cdo/aid/100899/jewish/The-Messianic-Era.htm
 - (ref_5) Chabad.org: Aleinu, Text with Translation. https://www.chabad.org/library/article_cdo/aid/7424392/jewish/Aleinu-Text-with-Translation.htm
+- (ref_6) Michael Zibulevsky: Moti's Journey: Growing Aligned Superintelligence from Infancy (Medium, 27 January 2026). https://medium.com/@michaelzibulevsky/motis-journey-growing-aligned-superintelligence-from-infancy-d6d7894c134b
+- (ref_7) Michael Zibulevsky: Educating Intelligence: What Jewish Tradition Can Teach Us About Aligning AI (Medium, 25 August 2025). https://medium.com/@michaelzibulevsky/educating-intelligence-what-jewish-tradition-can-teach-us-about-aligning-ai-03b94bf8250a
 
 ## Appendix 1: Humanity's Gradual Disconnection from the Source
 
