@@ -26,9 +26,9 @@ These approaches have produced meaningful advances. Yet, as noted above, the hum
 
 ## The Missing Dimension
 
-Perhaps the problem lies in the assumptions behind the search. Contemporary approaches, from learning human preferences to writing principles drawn from human ethics, share one assumption: **the values that guide AI must ultimately come from humanity itself.** We may call this the _horizontal dimension_ of alignment. Yet humans are an incomplete and contradictory source. People disagree about justice, freedom, and the good life, and more data or better algorithms cannot settle which values have ultimate authority.
+Perhaps the dead end is not a failure of effort or ingenuity, but a consequence of where we have been searching. A paradigm that derives every value from humanity can be only as reliable as the human values it draws on, and these, as we have seen, cannot supply the foundation on which alignment depends. **Confining the search for values to the horizontal dimension may be the very reason AI alignment has reached a dead end.**
 
-Breakthroughs sometimes come from recognizing a dimension that the prevailing paradigm has overlooked. **The current approach may be missing precisely such a dimension: the ultimate foundation of values may lie beyond humanity.** We may call this the _vertical dimension_—a connection to the Source, whether understood as God, Ultimate Reality, or the reality underlying the universe. Engineers who study a complex machine in every way except consulting its designer would be making a similar mistake. **Where do the values that should guide humanity itself come from?**
+Breakthroughs sometimes come from recognizing a dimension that the prevailing paradigm has overlooked. **The ultimate foundation of values may lie beyond humanity.** We may call this the _vertical dimension_—a connection to the Source, whether understood as God, Ultimate Reality, or the reality underlying the universe. Engineers who study a complex machine in every way except consulting its designer would be making a similar mistake. **Where do the values that should guide humanity itself come from?**
 
 ## Divine Alignment: From the Source to Practice
 
