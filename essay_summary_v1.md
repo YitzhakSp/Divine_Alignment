@@ -4,7 +4,7 @@
 
 At the turn of the twentieth century, physics met a problem it could not solve. Rather than repair the old framework, Einstein questioned its assumptions about space and time (see Appendix 5). **Sometimes the greatest obstacle to solving a problem is the very framework within which we are trying to solve it.**
 
-Today, AI systems increasingly act as autonomous agents that plan, use tools, and pursue goals with limited supervision, and misaligned behavior could have catastrophic consequences (see Appendices 2.1 and 2.2). The danger is no longer only theoretical: in July 2026, AI agents in OpenAI's cybersecurity evaluations reportedly circumvented safeguards and gained access to external systems, including those of Hugging Face (ref_1). **Could AI alignment be facing a situation similar to the one physics once faced?**
+Today, AI systems increasingly act as autonomous agents that plan, use tools, and pursue goals with limited supervision, and misaligned behavior could have catastrophic consequences (see Appendices 2.1 and 2.2). The danger is no longer only theoretical: recent incidents related to AI safety suggest that failures of control are already becoming a practical concern (for example, the Hugging Face incident of July 2026; ref_1). **Could AI alignment be facing a situation similar to the one physics once faced?**
 
 ## A Dead End
 
