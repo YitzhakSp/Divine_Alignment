@@ -1,0 +1,7 @@
+## The Current Paradigm: Full Focus on the Horizontal Dimension
+
+For all their diversity, contemporary approaches to AI alignment share a fundamental assumption: **the values that should guide artificial intelligence must ultimately be derived from humanity itself.** Whether by learning values from human behavior and preferences, as in _reinforcement learning from human feedback_ (RLHF) and _direct preference optimization_ (DPO), by deriving principles of desirable behavior from human knowledge and reasoning, as in _Constitutional AI_, or by aggregating the views of many people, as in training on _crowdsourced moral judgments_ or in _coherent extrapolated volition_ , these approaches look for values entirely within the human domain. We may call this the _horizontal dimension_ of alignment.
+
+These approaches have produced meaningful advances. Yet they face a fundamental limitation: as mentioned above, the human sources from which they derive values are themselves incomplete, diverse, and frequently contradictory. People disagree about justice, freedom, responsibility, and the meaning of a good life, and even widely accepted values conflict in difficult real-world situations. More data and better algorithms may help manage these disagreements, but they cannot establish which values possess ultimate authority.
+
+**The horizontal paradigm therefore seeks a reliable foundation for aligning superintelligence within a humanity that has yet to agree upon such a foundation for itself.**
