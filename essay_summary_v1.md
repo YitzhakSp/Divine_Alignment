@@ -16,6 +16,14 @@ Against this backdrop, a number of leading AI safety researchers have argued tha
 
 Although these warnings do not represent a scientific consensus, they underscore the gravity of the situation: **humanity is moving toward an intelligence more powerful than itself without knowing how to keep it aligned.**
 
+## The Current Paradigm: Full Focus on the Horizontal Dimension
+
+For all their diversity, contemporary approaches to AI alignment share a fundamental assumption: **the values that should guide artificial intelligence must ultimately be derived from humanity itself.** Whether by learning values from human behavior and preferences, as in _reinforcement learning from human feedback_ (RLHF) and _direct preference optimization_ (DPO), by deriving principles of desirable behavior from human knowledge and reasoning, as in _Constitutional AI_, or by aggregating the views of many people, as in training on _crowdsourced moral judgments_ or in _coherent extrapolated volition_, these approaches look for values entirely within the human domain. We may call this the _horizontal dimension_ of alignment.
+
+These approaches have produced meaningful advances. Yet, as noted above, the human sources from which they derive values are themselves incomplete, diverse, and frequently contradictory. More data and better algorithms may help manage these disagreements, but they cannot establish which values possess ultimate authority.
+
+**The horizontal paradigm therefore seeks a reliable foundation for aligning superintelligence within a humanity that has yet to agree upon such a foundation for itself.**
+
 ## The Missing Dimension
 
 Perhaps the problem lies in the assumptions behind the search. Contemporary approaches, from learning human preferences to writing principles drawn from human ethics, share one assumption: **the values that guide AI must ultimately come from humanity itself.** We may call this the _horizontal dimension_ of alignment. Yet humans are an incomplete and contradictory source. People disagree about justice, freedom, and the good life, and more data or better algorithms cannot settle which values have ultimate authority.
